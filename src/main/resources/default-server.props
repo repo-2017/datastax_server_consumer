@@ -1,0 +1,2 @@
+topics=testlog.log;
+output.dir=/opt/copied_test_logs
